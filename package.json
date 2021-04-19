@@ -1,0 +1,23 @@
+{
+  "name": "Nodejs-File-System",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trillzdboy/Nodejs-File-System.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trillzdboy/Nodejs-File-System/issues"
+  },
+  "homepage": "https://github.com/Trillzdboy/Nodejs-File-System#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
